@@ -1,0 +1,8 @@
+warn("Loading string has been loaded!!")
+
+game.StarterGui:SetCore("SendNotification", {
+        Title = "Info", 
+        Text = "Loadstring has loaded!! 3.4v",
+        Icon = "http://www.roblox.com/asset/?id=9606070311",
+        Duration = 10
+})
